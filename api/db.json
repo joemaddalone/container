@@ -1,0 +1,9 @@
+{
+	"users": [
+		{"id": 1, "name": "userA", "access": ["A"]},
+		{"id": 2, "name": "userAB", "access": ["A", "B"]},
+		{"id": 3, "name": "userABC", "access": ["A", "B", "C"]},
+		{"id": 4, "name": "userAC", "access": ["A", "C"]},
+		{"id": 5, "name": "userBC", "access": ["B", "C"]}
+	]
+}

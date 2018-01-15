@@ -1,0 +1,8 @@
+/projectA/node_modules/
+/projectA/dist/
+/projectB/node_modules/
+/projectB/dist/
+/projectC/node_modules/
+/projectC/dist/
+/shell/node_modules/
+/api/node_modules/
